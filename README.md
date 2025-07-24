@@ -2,7 +2,9 @@
 
 Build Logger to download all build log files from OpenDev code review record: https://review.opendev.org/c/openstack/watcher-tempest-plugin/+/954214. 
 
-**all_logs.zip** - Contains all logs downloaded from the builds in the code review.
+**all_logs.zip** - This archive in this repository contains Zuul CI build logs collected from the builds associated with code reviews.
+
+*However, due to GitHub's file size limitations (maximum 2 GB even using Git lfs), I could not upload the updated version of all_logs.zip directly to the repository. Therefore it is hosted on [Zenodo](https://zenodo.org/records/16406459?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImE2NmJjYzRiLWNmMGUtNDhhMC05ZGM1LTJlMzhlYmVjN2E0ZiIsImRhdGEiOnt9LCJyYW5kb20iOiJiZmZiZGNhZjYyMWNjN2I1MTUzYzNkMWU3MjljMjQwNSJ9.pwAW3JgHmsNvA0zrbqElQs6Ee8p4r80VHkQapW2rsFb0dfAR2hQIil7KU2meSzQxd-qZGKsEAKwTATWyRdGtxg)*.
 
 ## Steps to Reproduce
 
